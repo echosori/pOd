@@ -8,5 +8,5 @@ QQ Group No.:699985671
 
 Email: Levin.Lu@qq.com
 
-Plugins in this zip file is up to date.
-But the tutorials maybe outdated a little bit.
+The plugins in this zip file are up to date.
+But the tutorials may be outdated a little bit.
